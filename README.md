@@ -14,7 +14,15 @@ The objective of this circuit is to establish the basis to move the robot wheels
   
  ## Circuit (with L293d)
 
+![2021-07-18 (3)](https://user-images.githubusercontent.com/85651071/126050070-4cdcece2-f0b6-41bc-a770-d0742a00f4ec.png)
 
 
-https://user-images.githubusercontent.com/85651071/126049965-7e692f54-4eaa-4812-8842-aed0ff457a9a.mp4
+## Circuit Video
+
+
+
+
+https://user-images.githubusercontent.com/85651071/126050102-fbff7952-746b-4420-8741-d57bcd5f7cc9.mp4
+
+
 
