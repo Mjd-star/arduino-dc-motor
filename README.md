@@ -11,3 +11,5 @@ The objective of this circuit is to establish the basis to move the robot wheels
   one 9 volts Battery
   
   one H-bridge Motor Drive
+  
+ ## Circuit (with L293d)
