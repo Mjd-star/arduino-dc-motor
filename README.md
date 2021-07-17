@@ -22,7 +22,9 @@ The objective of this circuit is to establish the basis to move the robot wheels
 
 
 
-https://user-images.githubusercontent.com/85651071/126050133-208e8c46-c84b-4408-a22f-870ffc3b3913.mp4
+https://user-images.githubusercontent.com/85651071/126050167-e30d3a1c-c71a-4bd0-9698-a3ca7e2f91fc.mp4
+
+
 
 
 
