@@ -5,6 +5,9 @@ The objective of this circuit is to establish the basis to move the robot wheels
 
 ## Hardware required
   one Arduino
+  
   two DC motors
+  
   one 9 volts Battery
+  
   one H-bridge Motor Drive
